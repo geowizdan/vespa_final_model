@@ -7,7 +7,7 @@
 .vscode/
 
 # Large or raw data
-/data/
+data/
 
 # Temporary system files
 *.tmp
